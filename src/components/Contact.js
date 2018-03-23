@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import gif from '../images/sm.jpg'
+import gif from '../images/shalini.jpg'
 
 class Contact extends Component {
   render() {
@@ -7,7 +7,7 @@ class Contact extends Component {
       <div className="Footer">
       <div> </div>
         <div className="footer-1">
-          <img src={gif} />
+          <img src={gif} className="rotate" />
         </div>
         <div className="footer-2">
           <h3>Contact</h3>

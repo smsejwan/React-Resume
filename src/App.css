@@ -289,6 +289,13 @@ h5{
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
+.rotate {
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+  transform: rotate(90deg);
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
 
 .nav-link:hover:not(.active) {
   background-color: #bafffc;
