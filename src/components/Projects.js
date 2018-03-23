@@ -16,7 +16,7 @@ class Projects extends Component {
 				    <p><strong>My first React Project</strong></p>
 	              	<p>JavaScript, React, CSS, HTML</p>
 	             	<p><a href="https://github.com/smsejwan/React-Resume.git" target="_blank" rel="noopener noreferrer">Repo <i className="fa fa-github" aria-hidden="true"/></a></p>
-	            	<p><a href="https://shalini-sejwani.netlify.com/" target="_blank" rel="noopener noreferrer">Explore App  <i className="fa fa-external-link"></i></a></p>
+	            	<p><a href="https://shalini-sejwani.com/" target="_blank" rel="noopener noreferrer">Explore App  <i className="fa fa-external-link"></i></a></p>
               
                 </div>
             	</div>
