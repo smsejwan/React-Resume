@@ -28,7 +28,7 @@ class App extends Component {
         <h2 className="heading" id="about"><strong>SKILLS</strong></h2>
         <Skills />
 
-        <h2 className="heading" id="footer"><strong>LIKE WHAT YOU SEE?</strong></h2>
+        <h2 className="heading" id="footer"><strong>CONTACT</strong></h2>
           <Contact />
 
       </div>
